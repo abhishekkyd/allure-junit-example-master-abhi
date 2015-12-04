@@ -1,0 +1,65 @@
+{
+  "uid" : "887b6e3d49e2b021",
+  "name" : "usernameNotContainsSlash",
+  "title" : "Username not contains slash",
+  "time" : {
+    "start" : 1426243469963,
+    "stop" : 1426243469979,
+    "duration" : 16
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ {
+    "name" : "checkUserName[optimus]",
+    "title" : "Check user name [optimus]",
+    "time" : {
+      "start" : 1426243469979,
+      "stop" : 1426243469979,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "checkUserName[optimus-prime]",
+    "title" : "Check user name [optimus-prime]",
+    "time" : {
+      "start" : 1426243469979,
+      "stop" : 1426243469979,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

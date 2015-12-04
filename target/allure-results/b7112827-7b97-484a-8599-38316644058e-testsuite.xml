@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1426243469869" stop="1426243469994" version="1.4.3">
+    <name>my.company.tests.SimpleTest</name>
+    <test-cases>
+        <test-case start="1426243469869" stop="1426243469885" status="passed">
+            <name>simpleTestWithSteps</name>
+            <steps>
+                <step start="1426243469869" stop="1426243469885" status="passed">
+                    <name>checkThat2is2</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1426243469901" stop="1426243469901" status="passed">
+            <name>simpleTest</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1426243469901" stop="1426243469932" status="passed">
+            <name>simpleTestWithAttachments</name>
+            <steps/>
+            <attachments>
+                <attachment title="makeAttach" source="45fb0865-2eca-4b5f-a832-a156cf9536ec-attachment.txt" type="text/plain" size="12"/>
+            </attachments>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

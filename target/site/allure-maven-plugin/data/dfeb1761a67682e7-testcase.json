@@ -1,0 +1,50 @@
+{
+  "uid" : "dfeb1761a67682e7",
+  "name" : "simpleTestWithSteps",
+  "title" : "Simple test with steps",
+  "time" : {
+    "start" : 1426243469869,
+    "stop" : 1426243469885,
+    "duration" : 16
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ {
+    "name" : "checkThat2is2",
+    "title" : "Check that 2is 2",
+    "time" : {
+      "start" : 1426243469869,
+      "stop" : 1426243469885,
+      "duration" : 16
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

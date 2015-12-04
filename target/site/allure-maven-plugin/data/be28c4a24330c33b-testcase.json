@@ -1,0 +1,41 @@
+{
+  "uid" : "be28c4a24330c33b",
+  "name" : "simpleTestWithAttachments",
+  "title" : "Simple test with attachments",
+  "time" : {
+    "start" : 1426243469901,
+    "stop" : 1426243469932,
+    "duration" : 31
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "makeAttach",
+    "source" : "45fb0865-2eca-4b5f-a832-a156cf9536ec-attachment.txt",
+    "type" : "text/plain",
+    "size" : 12,
+    "uid" : "fb5d21a1e0c00f4e"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

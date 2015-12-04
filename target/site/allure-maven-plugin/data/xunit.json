@@ -1,0 +1,120 @@
+{
+  "time" : {
+    "start" : 1426243457873,
+    "stop" : 1426243470999,
+    "duration" : 13126
+  },
+  "testSuites" : [ {
+    "uid" : "4126ee343bda9805",
+    "name" : "my.company.tests.TheoryTest",
+    "title" : "Theory test",
+    "time" : {
+      "start" : 1426243469963,
+      "stop" : 1426243470959,
+      "duration" : 996
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "887b6e3d49e2b021",
+      "name" : "usernameNotContainsSlash",
+      "title" : "Username not contains slash",
+      "time" : {
+        "start" : 1426243469963,
+        "stop" : 1426243469979,
+        "duration" : 16
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "7eeaabae8b86114e",
+    "name" : "my.company.tests.SearchTest",
+    "title" : "Search test",
+    "time" : {
+      "start" : 1426243457873,
+      "stop" : 1426243470999,
+      "duration" : 13126
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "ae8a5e471b1b772b",
+      "name" : "searchTest",
+      "title" : "Search test",
+      "time" : {
+        "start" : 1426243457888,
+        "stop" : 1426243469869,
+        "duration" : 11981
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "571d4386a2a9272b",
+    "name" : "my.company.tests.SimpleTest",
+    "title" : "Simple test",
+    "time" : {
+      "start" : 1426243469869,
+      "stop" : 1426243469994,
+      "duration" : 125
+    },
+    "statistic" : {
+      "total" : 3,
+      "passed" : 3,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "dfeb1761a67682e7",
+      "name" : "simpleTestWithSteps",
+      "title" : "Simple test with steps",
+      "time" : {
+        "start" : 1426243469869,
+        "stop" : 1426243469885,
+        "duration" : 16
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "fe01ed736d315b30",
+      "name" : "simpleTest",
+      "title" : "Simple test",
+      "time" : {
+        "start" : 1426243469901,
+        "stop" : 1426243469901,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "be28c4a24330c33b",
+      "name" : "simpleTestWithAttachments",
+      "title" : "Simple test with attachments",
+      "time" : {
+        "start" : 1426243469901,
+        "stop" : 1426243469932,
+        "duration" : 31
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

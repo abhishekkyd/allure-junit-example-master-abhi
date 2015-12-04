@@ -1,0 +1,71 @@
+{
+  "uid" : "ae8a5e471b1b772b",
+  "name" : "searchTest",
+  "title" : "Search test",
+  "time" : {
+    "start" : 1426243457888,
+    "stop" : 1426243469869,
+    "duration" : 11981
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ {
+    "name" : "openMainPage",
+    "title" : "Open main page",
+    "time" : {
+      "start" : 1426243461366,
+      "stop" : 1426243466910,
+      "duration" : 5544
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "search[allure framework]",
+    "title" : "Search [allure framework]",
+    "time" : {
+      "start" : 1426243466910,
+      "stop" : 1426243467190,
+      "duration" : 280
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "makeScreenshot",
+    "source" : "7fccae60-4171-4979-a335-9f1882c433a2-attachment.png",
+    "type" : "image/png",
+    "size" : 10367,
+    "uid" : "12b95ff96a720f4"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

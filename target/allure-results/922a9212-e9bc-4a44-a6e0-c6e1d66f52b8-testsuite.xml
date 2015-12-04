@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1426243457873" stop="1426243470999" version="1.4.3">
+    <name>my.company.tests.SearchTest</name>
+    <test-cases>
+        <test-case start="1426243457888" stop="1426243469869" status="passed">
+            <name>searchTest</name>
+            <steps>
+                <step start="1426243461366" stop="1426243466910" status="passed">
+                    <name>openMainPage</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1426243466910" stop="1426243467190" status="passed">
+                    <name>search[allure framework]</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="makeScreenshot" source="7fccae60-4171-4979-a335-9f1882c433a2-attachment.png" type="image/png" size="10367"/>
+            </attachments>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
